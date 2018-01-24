@@ -1,0 +1,12 @@
+ELI12:
+
+    * Variables
+        A placeholder for data defined by the user, programmer, or program.
+	* Strings
+        A collection of characters.
+ 	* Functions (arguments, `return`)
+        Perform actions involving other elements within the code.
+	* `if` statements
+        Conditional operation based on specific criteria
+	* Boolean values (`true`, `false`)
+        A simple yes or no value, pre-defined or based on the results of statements 
